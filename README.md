@@ -1,4 +1,4 @@
----
+----
 title: "Creator's Code"
 author: Christine Dodrill
 date: 2018-09-17
@@ -7,7 +7,7 @@ date: 2018-09-17
 # [Creator's Code](https://github.com/Xe/creators-code)
 
 I feel there is a large problem in the industry I have found myself in. There is,
-unfortunately, a need for these kinds of documents to help arrange and align
+unfortunately, a need for codes of behavioral conduct to help arrange and align
 collaboration across so many cultural and ideological barriers, as well as
 technological and understanding-based barriers. There are so many barriers that
 it becomes difficult for people from different backgrounds to get integrated into
@@ -22,7 +22,7 @@ Valor, or the courage to speak up against things that are out of alignment with
 the whole. Forgiveness, because people change and it is not fair to let their
 past experiences sour things too much. Understanding is the key to our groups, 
 the knowledge of how complicated systems interact and how to explain it to people
-less familiar with them. Compassion for others hardships, even the ones we cannot
+less familiar with them. Compassion for others' hardships, even the ones we cannot
 as easily comprehend.
 
 I am basing this not on any world religion, but on a core I feel is condicuve to
@@ -33,15 +33,18 @@ source communities. I am not comfortable with more access to patterns of numbers
 being used as a means of leverage by people who otherwise have no stake in the
 project.
 If this adds any factor to my argument, I personally am transgender. I normally
-don't mention it because for the 99% of real-world cases (including my doctor)
-it is not relevant. It is mostly relevant when dealing with my doctor.
+don't mention it because for the 99% of real-world cases it is not relevant. 
+It is mostly relevant when dealing with my doctor.
 
 In meditation, it is often useful to lead a session with a statement of 
 intention. This statement helps set the tone for the session and can sometimes
 help as a guide to go back to when you feel you have gone astray. I want the
 [Creator's Code][cc] to be such a statement of intention. I want it to focus the 
 creations and using them to enrich their creators as well as others who just
-happen to read its code.
+happen to read its code, not to mention the end users and their users who don't
+even know or care about our role in their life. Our creations serve them too.
+
+We create things that let people create things for other people to enjoy.
 
 I hope this code of conduct helps to serve as a minimalist alternative to others.
 I do not want anyone to push this onto anyone. Making a decision to use a code
