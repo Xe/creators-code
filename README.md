@@ -13,7 +13,7 @@ technological and understanding-based barriers. There are so many barriers that
 it becomes difficult for people from different backgrounds to get integrated into
 the flow of the project or to maintain people due to the behavior of others.
 
-I seek to change this by offering what I think to be a minimalist alternative
+I seek to change this by offering what I think to be a [minimalist alternative][code]
 grounded in a core of humility, appreciation, valor, forgiveness, understanding,
 and compassion. Humility for knowing that your own way is not always the correct
 one, and that others may have had a helpful background. Appreciation for those 
@@ -53,3 +53,4 @@ it peacefully.
 Be well, creators. Be well and just create.
 
 [cc]: https://github.com/Xe/creators-code
+[code]: https://github.com/Xe/creators-code/blob/master/CODE_OF_CONDUCT.md
