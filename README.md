@@ -25,7 +25,7 @@ the knowledge of how complicated systems interact and how to explain it to peopl
 less familiar with them. Compassion for others' hardships, even the ones we cannot
 as easily comprehend.
 
-I am basing this not on any world religion, but on a core I feel is condicuve to
+I am basing this not on any world religion, but on a core I feel is conducive to
 human interrelation as adults who just want to create software.
 This mainly started as a reaction to seeing so many other projects adopt codes 
 of conduct that enables busybodies to override decision-making processes in open
@@ -50,7 +50,7 @@ I hope this code of conduct helps to serve as a minimalist alternative to others
 I do not want anyone to push this onto anyone. Making a decision to use a code
 such as the Creator's Code must be a conscious and intentional decision. Forcing
 this kind of thing on anyone is the worst possible way to introduce it. That 
-will make people resist more violently than they would have if you introducted 
+will make people resist more violently than they would have if you introduced 
 it peacefully.
 
 Be well, creators. Be well and just create.
