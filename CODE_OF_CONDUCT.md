@@ -1,7 +1,7 @@
 # Code of Conduct
 
-We are sapient.  
-To be sapient is to be limited.  
+We are sentient.  
+To be sentient is to be limited.  
 In our limitation, we make choices that are unwise or are flawed.
 
 If we make unwise choices because of our limitation,  
@@ -21,5 +21,5 @@ Be well, Creator. Be well and create.
 
 ---
 
-Based on the [Creator's Code v1](https://github.com/Xe/creators-code). Please
+Based on the [Creator's Code v2](https://github.com/Xe/creators-code). Please
 read the link for more information.
