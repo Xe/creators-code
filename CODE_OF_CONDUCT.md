@@ -1,21 +1,16 @@
-# Code of Conduct
+# The Creator's Code
 
-We are sentient.  
-To be sentient is to be limited.  
-In our limitation, we make choices that are unwise or are flawed.
+Because we are limited beings,
+we make choices that are unwise or flawed.
 
-If we make unwise choices because of our limitation,  
-we cannot judge others for the same reason.
+While others may meet us with hostility,
+we choose to acknowledge difference:
 
-So, we cannot judge,  
-thus we forgive. 
+Thus we forgive. 
 
-This project and its results are intended as:  
-a place of learning,  
-a place of understanding,  
-a place of teaching,  
-a place of sharing,  
-a place of creators creating the tools for other creators to create complicated things elegantly.
+This is a place of learning, understanding, teaching and sharing.
+This is a place to affirm valour and compassion.
+This is a place for collaborative creation.
 
 Be well, Creator. Be well and create.
 
